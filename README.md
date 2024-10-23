@@ -5,15 +5,15 @@
 **A.C.E (Accident Crash Emergency System)** is an innovative, IoT-powered solution designed to detect road accidents in real-time using advanced technologies such as Machine Learning (ML), Convolutional Neural Networks (CNN), and YOLO (You Only Look Once) object detection. The system automatically alerts emergency services when an accident occurs, providing exact location data to ensure faster response times and potentially saving lives.
 
 ## Prototype Image
-![Robot Image1](https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img1.jpg) 
+<img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img1.jpg" alt="Robot Image 1" width="400">
 
-![Robot Image21](https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img2.jpg) 
+<img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img2.jpg" alt="Robot Image 2" width="400">
 
 ## Prototype 3d design
-![Robot Image23](https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img3.jpg) 
+<img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img3.jpg" alt="Robot Image 3" width="400">
 
 ## Alert Email 
-![Robot Image34](https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img4.jpg) 
+<img src="https://github.com/garvkumar68/A.C.E/blob/main/Prototype%20Image/img4.jpg" alt="Robot Image 4" width="400">
 
 
 ## Key Features
