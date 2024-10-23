@@ -35,12 +35,12 @@ To get started with **A.C.E - Accident Crash Emergency System**:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ACE-Accident-Crash-Emergency-System.git
+   git clone https://github.com/garvkumar68/A.C.E.git
    ```
 2. **Install Dependencies**:
    Navigate to the project directory and install required dependencies:
    ```bash
-   cd ACE-Accident-Crash-Emergency-System
+   cd A.C.E
    pip install -r requirements.txt
    ```
    Ensure you have all necessary libraries (e.g., OpenCV, TensorFlow, Keras, Flask, etc.).
@@ -94,8 +94,8 @@ This project is licensed under the **MIT License**. Feel free to use it for pers
 
 For any questions, feedback, or collaboration, feel free to reach out:
 
-- Email: (rathoreatri.com)
-- GitHub: (https://github.com/Rathoreatri03)
+- Email: (garvkumar68@gmail.com)
+- GitHub: (https://github.com/garvkumar68)
 
 ---
 
